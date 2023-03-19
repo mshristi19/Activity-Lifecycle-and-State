@@ -1,3 +1,4 @@
+![](Dessert.gif)
 DessertClicker - Code
 =====================
 
